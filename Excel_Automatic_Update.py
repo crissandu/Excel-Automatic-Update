@@ -11,8 +11,8 @@ xlapp = win32com.client.DispatchEx("Excel.Application")
 #Sheet Range
 p1 = 'sheet1'
 p2 = 'sheet2'
-p3 = 'sheet2'
-p4 = 'sheet2'
+p3 = 'sheet3'
+p4 = 'sheet4'
 
 # Optional, e.g. if you want to debug
 xlapp.Visible = True
